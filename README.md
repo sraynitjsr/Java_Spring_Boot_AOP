@@ -13,6 +13,7 @@ This endpoint returns a personalized greeting message saying "Hello Java Folks" 
   "message": "Hello Java Folks, From Subhradeep Ray"
 }
 
+```
 ### 2. `GET /api/sayBye`
 This endpoint returns a personalized greeting message saying "Bye Java Folks" with a name injected from a Spring Bean.
 
